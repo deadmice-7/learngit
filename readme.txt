@@ -1,2 +1,1 @@
-123123
-feature
+Creating a new branch is quick AND simple.
